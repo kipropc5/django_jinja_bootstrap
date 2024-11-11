@@ -302,6 +302,7 @@ a:focus {
   color: #e93f1a;
 }
 
+
 .body_bg {
   background-image: url(../images/body_bg.jpg);
   background-size: cover;
@@ -609,6 +610,7 @@ a:focus {
 .footer_section a {
   color: #ffffff;
 }
+
 
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
